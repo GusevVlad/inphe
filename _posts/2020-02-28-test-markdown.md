@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: МОДЕЛИРОВАНИЕ ПЕРЕНОСА ИЗЛУЧЕНИЯ
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -12,67 +12,15 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 **Here is some bold text**
 
-## Here is a secondary heading
+## РУКОВОДИТЕЛЬ НАУЧНОЙ ГРУППЫ:
 
-Here's a useless table:
+Панин Михаил Петрович: доцент, к.ф.-м.н., эксперт Госкорпорации «Росатом» по оценке ядерной инфраструктуры государств-заказчиков АЭС
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+- Аудитория Э-217
+- профиль в ResearchGate
+- Email: MPPanin@mephi.ru
+---
 
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+ПРИМЕРНЫЕ ТЕМЫ НИРС И ВКР:
+Алгоритмы метода Монте-Карло при использовании фантомов на основе нерегулярной сетки Моделирование аппаратурной линии спектрометра с детальным учетом физики рассеяния и релаксации атома
+Моделирование фотоядерных реакции при переносе высокоэнергетического фотонного излучения Построение неаналоговых схем моделирования при расчете неболцмановских функционалов
