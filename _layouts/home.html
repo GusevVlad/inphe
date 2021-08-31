@@ -44,10 +44,10 @@ layout: page
       {% endif %}
     </a>
 
-    <p class="post-meta">
+    <!-- <p class="post-meta">
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
       Posted on {{ post.date | date: date_format }}
-    </p>
+    </p> -->
 
     {% if thumbnail != "" %}
     <div class="post-image post-image-small">
@@ -78,7 +78,7 @@ layout: page
 
     {% if site.feed_show_tags != false and post.tags.size > 0 %}
     <div class="blog-tags">
-      <span>Tags:</span>
+      <span>Кафедра №</span>
       {% for tag in post.tags %}
       <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
       {% endfor %}
