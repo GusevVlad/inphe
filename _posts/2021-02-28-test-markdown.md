@@ -1,11 +1,9 @@
 ---
 layout: post
 title: кирилица
-subtitle: -
+subtitle: g
 gh-repo: GusevVlad/GusevVlad.github.io
-gh-badge: [star, fork, follow]
 tags: [test]
-comments: true
 ---
 
 unicode
